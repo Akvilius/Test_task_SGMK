@@ -6,3 +6,4 @@
 - Чек-лист(https://docs.google.com/spreadsheets/d/1QXFNfYmHnqFvVDRPu1amT41Kny8o27P-s4iNU8-lTV8/edit#gid=0): основная часть работы, последняя часть проверок выполнена в формате ТПР и вынесена на отдельный лист (https://docs.google.com/spreadsheets/d/1QXFNfYmHnqFvVDRPu1amT41Kny8o27P-s4iNU8-lTV8/edit#gid=623439452)
 - Тест-кейсы(https://docs.google.com/spreadsheets/d/1QXFNfYmHnqFvVDRPu1amT41Kny8o27P-s4iNU8-lTV8/edit#gid=1859296701): лист содержит примеры написания тест-кейсов по проверками интерфейса формы регистрации
 - Maind map: карта нарисована в Miro (https://miro.com/app/board/uXjVNEJCCz0=/?share_link_id=798410457108) для доступа может потребоваться авторизация
+tfdew
